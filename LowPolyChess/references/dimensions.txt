@@ -1,0 +1,18 @@
+King : {
+	height: 9.5cm,
+	base_size: 40%-50% height,
+	diameter: 3.8cm- 4.75cm
+} 
+chess_board : {
+	king's base is aproximately 75% of the square
+	Square is 2x the diameter of the Pawn's base
+}
+
+dimensions choosed 
+
+kings diameter- 4.5cm
+other pieces- 4cm
+pawn- 3cm
+square is 6cm
+style
+
