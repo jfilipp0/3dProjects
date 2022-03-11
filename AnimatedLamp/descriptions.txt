@@ -1,0 +1,3 @@
+Lamp 
+desk
+10s/ 30FPS
