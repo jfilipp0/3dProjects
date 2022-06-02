@@ -1,11 +1,11 @@
 # 3dProjects
 
-Animated Lamp                   -    
+Animated Lamp                   - 
 Bowling                         - Done
 Coffee Donut                    - Done
 Fast Character                  - 
-learning videos                 - 
-LowPolyChess                    - 
+learning videos                 - Done
+LowPolyChess                    - Done
 Harp                            - 
 Re-creations                    
     Dino                        - Done
